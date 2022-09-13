@@ -1,10 +1,11 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Waldsson Sacramento and my nickname is "WalSacramento"!
 
 #Ferramentas e Tecnologias:
-<i class="devicon-arduino-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+
+          
           
 
 <!--
