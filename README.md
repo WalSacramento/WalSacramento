@@ -38,7 +38,7 @@
 
 ### 🚀 Some Projects
 
-![Dev Quiz React](https://github-readme-stats.vercel.app/api/pin/?username=WalSacramento&repo=QuizApp-React)
+![Dev Quiz React](https://github-readme-stats.vercel.app/api/pin/?username=WalSacramento&repo=QuizApp-React&theme=dracula)
 
 <!-- ![Topeka Bank](https://github-readme-stats.vercel.app/api/pin/?username=camillaalves12&repo=topeka_bank_React) -->
 ![Irrigador Automatizado](https://github-readme-stats.vercel.app/api/pin/?username=WalSacramento&repo=Irrigador_Automatizado)
