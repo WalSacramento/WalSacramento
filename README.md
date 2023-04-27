@@ -39,7 +39,7 @@
 ### 🚀 Projects
 
 ![Dev Quiz React](https://github-readme-stats.vercel.app/api/pin/?username=WalSacramento&repo=QuizApp-React)
-![Topeka Bank](https://github-readme-stats.vercel.app/api/pin/?username=camillaalves12&repo=topeka_bank_react)
+![Topeka Bank](https://github-readme-stats.vercel.app/api/pin/?username=camillaalves12&repo=topeka_bank_React)
 ![Irrigador Automatizado](https://github-readme-stats.vercel.app/api/pin/?username=WalSacramento&repo=Irrigador_Automatizado)
 ![Banco AB2](https://github-readme-stats.vercel.app/api/pin/?username=WalSacramento&repo=BancoAB2)
 
