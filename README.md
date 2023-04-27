@@ -41,9 +41,9 @@
 ![Dev Quiz React](https://github-readme-stats.vercel.app/api/pin/?username=WalSacramento&repo=QuizApp-React&theme=dracula)
 
 <!-- ![Topeka Bank](https://github-readme-stats.vercel.app/api/pin/?username=camillaalves12&repo=topeka_bank_React) -->
-![Irrigador Automatizado](https://github-readme-stats.vercel.app/api/pin/?username=WalSacramento&repo=Irrigador_Automatizado)
+![Irrigador Automatizado](https://github-readme-stats.vercel.app/api/pin/?username=WalSacramento&repo=Irrigador_Automatizado&theme=dracula)
 
-![Banco AB2](https://github-readme-stats.vercel.app/api/pin/?username=WalSacramento&repo=BancoAB2)
+![Banco AB2](https://github-readme-stats.vercel.app/api/pin/?username=WalSacramento&repo=BancoAB2&theme=dracula)
 
 
 <div>
