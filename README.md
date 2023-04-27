@@ -1,7 +1,7 @@
 
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Waldsson Sacramento and my nickname is "WalSacramento"!
-# My (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) profile is: (https://www.linkedin.com/in/waldssonsacramento/)
+# My ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) profile is: ![Link](https://www.linkedin.com/in/waldssonsacramento/)
 
 ## ⚡ Tech Stack
 
