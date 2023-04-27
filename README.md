@@ -36,10 +36,10 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### 🚀 Projects
+### 🚀 Some Projects
 
 ![Dev Quiz React](https://github-readme-stats.vercel.app/api/pin/?username=WalSacramento&repo=QuizApp-React)
-![Topeka Bank](https://github-readme-stats.vercel.app/api/pin/?username=camillaalves12&repo=topeka_bank_React)
+<!-- ![Topeka Bank](https://github-readme-stats.vercel.app/api/pin/?username=camillaalves12&repo=topeka_bank_React) -->
 ![Irrigador Automatizado](https://github-readme-stats.vercel.app/api/pin/?username=WalSacramento&repo=Irrigador_Automatizado)
 ![Banco AB2](https://github-readme-stats.vercel.app/api/pin/?username=WalSacramento&repo=BancoAB2)
 
