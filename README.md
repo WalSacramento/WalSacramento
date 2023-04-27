@@ -1,6 +1,7 @@
 
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Waldsson Sacramento and my nickname is "WalSacramento"!
+# My (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) profile is: (https://www.linkedin.com/in/waldssonsacramento/)
 
 ## ⚡ Tech Stack
 
@@ -18,8 +19,10 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 ### 🧑🏻‍💻 Tools & Platform
 
@@ -45,7 +48,7 @@
 
 ![Banco AB2](https://github-readme-stats.vercel.app/api/pin/?username=WalSacramento&repo=BancoAB2&theme=dracula)
 
-
+### 📊 My Stats
 <div>
 <a href="https://github.com/WalSacramento">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalSacramento&layout=compact&langs_count=7&theme=dracula"/> 
