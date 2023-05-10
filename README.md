@@ -39,26 +39,16 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<!-- ### 🚀 Some Projects
 
-![Dev Quiz React](https://github-readme-stats.vercel.app/api/pin/?username=WalSacramento&repo=QuizApp-React&theme=dracula)
-
-<!-- ![Topeka Bank](https://github-readme-stats.vercel.app/api/pin/?username=camillaalves12&repo=topeka_bank_React) -->
-![Irrigador Automatizado](https://github-readme-stats.vercel.app/api/pin/?username=WalSacramento&repo=Irrigador_Automatizado&theme=dracula)
-
-![Banco AB2](https://github-readme-stats.vercel.app/api/pin/?username=WalSacramento&repo=BancoAB2&theme=dracula)
- -->
 ### 📊 My Stats
 <div>
 <a href="https://github.com/WalSacramento">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalSacramento&layout=compact&langs_count=10&theme=dracula"/> 
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalSacramento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalSacramento&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
 </div>
           
           
-          
-
+      
           
           
 
