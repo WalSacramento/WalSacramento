@@ -1,16 +1,20 @@
-
+<div align='center'>
+          
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Waldsson Sacramento and my nickname is "WalSacramento"!
 #### Visit my [LinkedIn](https://www.linkedin.com/in/waldssonsacramento/) profile!
+</div>
 
+___
 ### 📊 My Stats
-<div>
-<a href="https://github.com/WalSacramento">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalSacramento&layout=compact&langs_count=10&theme=dracula"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalSacramento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align='center'>
+          
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalSacramento&layout=compact&langs_count=10&theme=dracula"/>  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WalSacramento&theme=dracula&hide_border=true&exclude_days=Sun%2CSat&card_width=430)](https://git.io/streak-stats)
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalSacramento&show_icons=true&theme=dracula&include_all_commits=true"/> -->
 </div>
           
-
+___
+          
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
